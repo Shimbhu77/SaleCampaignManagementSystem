@@ -120,5 +120,8 @@ Add a discount to a campaign.
   ```
 - **Response**: HTTP Status 201 Created
 
-## Additional Information
+## Team 
+
+👤 [Shimbhu Kumawat](https://github.com/Shimbhu77)
+     
 
